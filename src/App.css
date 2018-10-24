@@ -18,7 +18,7 @@
   margin: auto;
   text-align: center;
   background: #fff;
-  padding: 40px 75px 56px 75px;
+  padding: 40px 10% 56px 10%;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
@@ -111,7 +111,7 @@ i {
 @media only screen and (max-width: 800px) {
   .intro {
     width: 70%;
-    padding: 40px 40px 56px 40px;
+    padding: 40px 8% 56px 8%;
   }
 
   h1 {
@@ -121,13 +121,14 @@ i {
   p {
     font-size: 15px;
     line-height: 1.7;
+    padding: 0 5%;
   }
 }
 
 @media only screen and (max-width: 450px) {
   .intro {
     width: 75%;
-    padding: 40px 25px 56px 25px;
+    padding: 40px 5% 56px 5%;
   }
 
   p {

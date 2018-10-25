@@ -122,16 +122,24 @@ i {
     font-size: 15px;
     line-height: 1.7;
     padding: 0 5%;
+    margin: 23px 0 23px 0;
+  }
+
+  .profile-pic, .profile-pic img {
+    width: 150px;
+    height: 150px;
   }
 }
 
 @media only screen and (max-width: 450px) {
   .intro {
+    position: relative;
+    top: 28px;
     width: 75%;
-    padding: 40px 5% 56px 5%;
+    padding: 40px 5% 25px 5%;
   }
 
   p {
-    font-size: 14px;
+    font-size: 13px;
   }
 }

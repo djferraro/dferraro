@@ -23,7 +23,7 @@ class App extends Component {
                       marketing forte, and aptitude for business operations. I have a business brain painted in creative colors that 
                       allows me to help organizations drive funnel engagement by understanding business concerns, and using that 
                       understanding to design and build creative content.</p>
-                      <a href="https://www.linkedin.com/in/dominic-ferraro-6b54163/" className="btn btn-success">Linked<i class="fab fa-linkedin"></i></a>
+                      <a href="https://www.linkedin.com/in/dominic-hoernecke-ferraro" className="btn btn-success">Linked<i class="fab fa-linkedin"></i></a>
                   </div>
               </div>
           </div>
